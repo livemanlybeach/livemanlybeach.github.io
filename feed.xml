@@ -6,8 +6,8 @@
 </description>
     <link>http://www.livemanlybeach.com/</link>
     <atom:link href="http://www.livemanlybeach.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Dec 2015 16:32:30 +1100</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2015 16:32:30 +1100</lastBuildDate>
+    <pubDate>Mon, 21 Dec 2015 16:44:14 +1100</pubDate>
+    <lastBuildDate>Mon, 21 Dec 2015 16:44:14 +1100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -22,8 +22,8 @@ I had fun and got some ok video, some shots I was pointing the wrong way and I w
 
 </description>
         <pubDate>Mon, 21 Dec 2015 14:00:00 +1100</pubDate>
-        <link>http://www.livemanlybeach.com/manlybeach/surf/video/2015/12/21/manly-beach-surf.html</link>
-        <guid isPermaLink="true">http://www.livemanlybeach.com/manlybeach/surf/video/2015/12/21/manly-beach-surf.html</guid>
+        <link>http://www.livemanlybeach.com/manlybeach/surf/video/gopro/2015/12/21/manly-beach-surf.html</link>
+        <guid isPermaLink="true">http://www.livemanlybeach.com/manlybeach/surf/video/gopro/2015/12/21/manly-beach-surf.html</guid>
         
         
         <category>manlybeach</category>
@@ -31,6 +31,8 @@ I had fun and got some ok video, some shots I was pointing the wrong way and I w
         <category>surf</category>
         
         <category>video</category>
+        
+        <category>gopro</category>
         
       </item>
     
