@@ -2,13 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LiveManlyBeach</title>
-    <description>Manly Beach Photography &amp; Video  
+    <description>Manly Beach Photography &amp; Video
 </description>
-    <link>http://www.livemanlybeach.com/</link>
-    <atom:link href="http://www.livemanlybeach.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Oct 2016 07:52:15 +1000</pubDate>
-    <lastBuildDate>Sat, 01 Oct 2016 07:52:15 +1000</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 25 Oct 2016 21:26:00 +1100</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2016 21:26:00 +1100</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>October Swell</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/01.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/04.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/05.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/06.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/07.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/08.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/09.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/010.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/011.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/012.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/013.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016-10-25/014.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Oct 2016 12:00:00 +1100</pubDate>
+        <link>http://localhost:4000/queenscliff/2016/10/25/OctoberSwell.html</link>
+        <guid isPermaLink="true">http://localhost:4000/queenscliff/2016/10/25/OctoberSwell.html</guid>
+        
+        
+        <category>Queenscliff</category>
+        
+      </item>
     
       <item>
         <title>Car Drives Off Cliff at Queenscliff Rd</title>
@@ -62,8 +102,8 @@ Apparently one of the boats had a power issue and needed to be towed, the tow ro
 
 </description>
         <pubDate>Sat, 09 Jan 2016 10:00:00 +1100</pubDate>
-        <link>http://www.livemanlybeach.com/queenscliff/police/2016/01/09/car-driven-off-queenscliff-cliff.html</link>
-        <guid isPermaLink="true">http://www.livemanlybeach.com/queenscliff/police/2016/01/09/car-driven-off-queenscliff-cliff.html</guid>
+        <link>http://localhost:4000/queenscliff/police/2016/01/09/car-driven-off-queenscliff-cliff.html</link>
+        <guid isPermaLink="true">http://localhost:4000/queenscliff/police/2016/01/09/car-driven-off-queenscliff-cliff.html</guid>
         
         
         <category>Queenscliff</category>
@@ -101,8 +141,8 @@ prior to each service.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 24 Dec 2015 14:30:00 +1100</pubDate>
-        <link>http://www.livemanlybeach.com/stmatthews/christmas/camels/thecorso/manlybeach/2015/12/24/camels-parade-on-the-corso.html</link>
-        <guid isPermaLink="true">http://www.livemanlybeach.com/stmatthews/christmas/camels/thecorso/manlybeach/2015/12/24/camels-parade-on-the-corso.html</guid>
+        <link>http://localhost:4000/stmatthews/christmas/camels/thecorso/manlybeach/2015/12/24/camels-parade-on-the-corso.html</link>
+        <guid isPermaLink="true">http://localhost:4000/stmatthews/christmas/camels/thecorso/manlybeach/2015/12/24/camels-parade-on-the-corso.html</guid>
         
         
         <category>StMatthews</category>
@@ -158,8 +198,8 @@ In the mean time enjoy these photos I’ve selected for today’s post.&lt;/p&gt
 
 </description>
         <pubDate>Thu, 24 Dec 2015 10:00:00 +1100</pubDate>
-        <link>http://www.livemanlybeach.com/manlybeach/sunrise/queenscliff/seagulls/2015/12/24/christmaseve.html</link>
-        <guid isPermaLink="true">http://www.livemanlybeach.com/manlybeach/sunrise/queenscliff/seagulls/2015/12/24/christmaseve.html</guid>
+        <link>http://localhost:4000/manlybeach/sunrise/queenscliff/seagulls/2015/12/24/christmaseve.html</link>
+        <guid isPermaLink="true">http://localhost:4000/manlybeach/sunrise/queenscliff/seagulls/2015/12/24/christmaseve.html</guid>
         
         
         <category>ManlyBeach</category>
@@ -184,8 +224,8 @@ I had fun and got some ok video, some shots I was pointing the wrong way and I w
 
 </description>
         <pubDate>Mon, 21 Dec 2015 14:00:00 +1100</pubDate>
-        <link>http://www.livemanlybeach.com/manlybeach/surf/video/gopro/2015/12/21/manly-beach-surf.html</link>
-        <guid isPermaLink="true">http://www.livemanlybeach.com/manlybeach/surf/video/gopro/2015/12/21/manly-beach-surf.html</guid>
+        <link>http://localhost:4000/manlybeach/surf/video/gopro/2015/12/21/manly-beach-surf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/manlybeach/surf/video/gopro/2015/12/21/manly-beach-surf.html</guid>
         
         
         <category>ManlyBeach</category>
@@ -229,8 +269,8 @@ Feel free to check out my &lt;a href=&quot;https://github.com/livemanlybeach&quo
 
 </description>
         <pubDate>Mon, 21 Dec 2015 10:00:00 +1100</pubDate>
-        <link>http://www.livemanlybeach.com/manlybeach/sunrise/queenscliff/2015/12/21/holidays.html</link>
-        <guid isPermaLink="true">http://www.livemanlybeach.com/manlybeach/sunrise/queenscliff/2015/12/21/holidays.html</guid>
+        <link>http://localhost:4000/manlybeach/sunrise/queenscliff/2015/12/21/holidays.html</link>
+        <guid isPermaLink="true">http://localhost:4000/manlybeach/sunrise/queenscliff/2015/12/21/holidays.html</guid>
         
         
         <category>ManlyBeach</category>
@@ -268,8 +308,8 @@ Feel free to check out my &lt;a href=&quot;https://github.com/livemanlybeach&quo
 &lt;img src=&quot;/images/2015-04-22/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Apr 2015 06:00:00 +1000</pubDate>
-        <link>http://www.livemanlybeach.com/manlybeach/sydneystorm/photography/video/2015/04/23/sydney-storm-aftermath.html</link>
-        <guid isPermaLink="true">http://www.livemanlybeach.com/manlybeach/sydneystorm/photography/video/2015/04/23/sydney-storm-aftermath.html</guid>
+        <link>http://localhost:4000/manlybeach/sydneystorm/photography/video/2015/04/23/sydney-storm-aftermath.html</link>
+        <guid isPermaLink="true">http://localhost:4000/manlybeach/sydneystorm/photography/video/2015/04/23/sydney-storm-aftermath.html</guid>
         
         
         <category>ManlyBeach</category>
@@ -308,8 +348,8 @@ So I dedicate these photos to my nephew Gabriel.&lt;/p&gt;
 &lt;img src=&quot;/images/2014-12-08/7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Dec 2014 06:14:01 +1100</pubDate>
-        <link>http://www.livemanlybeach.com/manlybeach/shellybeach/sunrise/photography/2014/12/09/gabriel.html</link>
-        <guid isPermaLink="true">http://www.livemanlybeach.com/manlybeach/shellybeach/sunrise/photography/2014/12/09/gabriel.html</guid>
+        <link>http://localhost:4000/manlybeach/shellybeach/sunrise/photography/2014/12/09/gabriel.html</link>
+        <guid isPermaLink="true">http://localhost:4000/manlybeach/shellybeach/sunrise/photography/2014/12/09/gabriel.html</guid>
         
         
         <category>ManlyBeach</category>
@@ -329,8 +369,8 @@ So I dedicate these photos to my nephew Gabriel.&lt;/p&gt;
 &lt;iframe style=&quot;box-shadow: 10px 10px 5px #888888;&quot; width=&quot;900&quot; height=&quot;506&quot; src=&quot;https://www.youtube.com/embed/y4oVZCVM3OY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt; &lt;/iframe&gt;
 </description>
         <pubDate>Tue, 19 Aug 2014 05:14:01 +1000</pubDate>
-        <link>http://www.livemanlybeach.com/manlybeach/shellybeach/storm/bigwaves/video/2014/08/19/Winki-Pop-and-Fairy-Bower.html</link>
-        <guid isPermaLink="true">http://www.livemanlybeach.com/manlybeach/shellybeach/storm/bigwaves/video/2014/08/19/Winki-Pop-and-Fairy-Bower.html</guid>
+        <link>http://localhost:4000/manlybeach/shellybeach/storm/bigwaves/video/2014/08/19/Winki-Pop-and-Fairy-Bower.html</link>
+        <guid isPermaLink="true">http://localhost:4000/manlybeach/shellybeach/storm/bigwaves/video/2014/08/19/Winki-Pop-and-Fairy-Bower.html</guid>
         
         
         <category>ManlyBeach</category>
@@ -361,32 +401,8 @@ So I dedicate these photos to my nephew Gabriel.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/2014-06-01/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Jun 2014 05:14:01 +1000</pubDate>
-        <link>http://www.livemanlybeach.com/manlybeach/photography/2014/06/02/busy.html</link>
-        <guid isPermaLink="true">http://www.livemanlybeach.com/manlybeach/photography/2014/06/02/busy.html</guid>
-        
-        
-        <category>ManlyBeach</category>
-        
-        <category>Photography</category>
-        
-      </item>
-    
-      <item>
-        <title>22 Central Ave</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/2014-04-21/1.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2014-04-21/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2014-04-21/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2014-04-21/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2014-04-21/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 22 Apr 2014 06:00:00 +1000</pubDate>
-        <link>http://www.livemanlybeach.com/manlybeach/photography/2014/04/22/central-ave.html</link>
-        <guid isPermaLink="true">http://www.livemanlybeach.com/manlybeach/photography/2014/04/22/central-ave.html</guid>
+        <link>http://localhost:4000/manlybeach/photography/2014/06/02/busy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/manlybeach/photography/2014/06/02/busy.html</guid>
         
         
         <category>ManlyBeach</category>
