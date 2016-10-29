@@ -6,9 +6,30 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Oct 2016 18:13:13 +1100</pubDate>
-    <lastBuildDate>Sat, 29 Oct 2016 18:13:13 +1100</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2016 18:26:28 +1100</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2016 18:26:28 +1100</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>Circular Quay to Manly Ferry Hyperlapse</title>
+        <description>&lt;div&gt;
+&lt;iframe style=&quot;box-shadow: 10px 10px 5px #888888;&quot; width=&quot;900&quot; height=&quot;506&quot; src=&quot;https://www.youtube.com/embed/ELwgpHI1ArE?wmode=opaque&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;Live Manly Beach&amp;nbsp;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 28 Oct 2016 12:00:00 +1100</pubDate>
+        <link>http://localhost:4000/circularquay/manly/ferry/hyperlapse/2016/10/28/CircularQuaytoManlyHyperlapse.html</link>
+        <guid isPermaLink="true">http://localhost:4000/circularquay/manly/ferry/hyperlapse/2016/10/28/CircularQuaytoManlyHyperlapse.html</guid>
+        
+        
+        <category>CircularQuay</category>
+        
+        <category>Manly</category>
+        
+        <category>Ferry</category>
+        
+        <category>Hyperlapse</category>
+        
+      </item>
     
       <item>
         <title>Circular Quay to Manly Ferry Hyperlapse</title>
@@ -360,46 +381,6 @@ Feel free to check out my &lt;a href=&quot;https://github.com/livemanlybeach&quo
         <category>Photography</category>
         
         <category>Video</category>
-        
-      </item>
-    
-      <item>
-        <title>Gabriel</title>
-        <description>&lt;p&gt;For some reason I was awake this morning and I noticed a golden glow coming through the window so I grabbed my camera and raced to the roof to take some photos.
-There was also a double rainbow over the Manly Cricket Oval and I also received a phone call later that morning to find out my nephew had been born, what a day!
-So I dedicate these photos to my nephew Gabriel.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2014-12-08/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2014-12-08/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2014-12-08/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2014-12-08/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A new day and a new life is born
-&lt;img src=&quot;/images/2014-12-08/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Golden Sets
-&lt;img src=&quot;/images/2014-12-08/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Double Rainbow
-&lt;img src=&quot;/images/2014-12-08/7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 09 Dec 2014 06:14:01 +1100</pubDate>
-        <link>http://localhost:4000/manlybeach/shellybeach/sunrise/photography/2014/12/09/gabriel.html</link>
-        <guid isPermaLink="true">http://localhost:4000/manlybeach/shellybeach/sunrise/photography/2014/12/09/gabriel.html</guid>
-        
-        
-        <category>ManlyBeach</category>
-        
-        <category>ShellyBeach</category>
-        
-        <category>Sunrise</category>
-        
-        <category>Photography</category>
         
       </item>
     
