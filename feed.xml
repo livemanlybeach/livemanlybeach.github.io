@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Oct 2016 18:26:28 +1100</pubDate>
-    <lastBuildDate>Sat, 29 Oct 2016 18:26:28 +1100</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2016 19:20:50 +1100</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2016 19:20:50 +1100</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -109,6 +109,31 @@
         <category>ManlyBeach</category>
         
         <category>LittleManly</category>
+        
+      </item>
+    
+      <item>
+        <title>Manly Dam</title>
+        <description>&lt;p&gt;Can’t believe I’ve lived in Manly for over two years and never bothered to venture out to Manly Dam.&lt;/p&gt;
+
+&lt;p&gt;It’s a 10 minute drive from Manly but when you’re there it feels like you’re hours outside of Sydney.&lt;/p&gt;
+
+&lt;p&gt;It has toilets, BBQ’s, Swimming, boat ramp, Water Skiing, a kids playground, walking tracks, fishing is allowed.&lt;/p&gt;
+
+&lt;p&gt;Parking is metered at about $5 an hour but you can park outside the park and walk in.&lt;/p&gt;
+
+&lt;p&gt;Will definitely be exploring this place more.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;iframe style=&quot;box-shadow: 10px 10px 5px #888888;&quot; width=&quot;900&quot; height=&quot;506&quot; src=&quot;https://www.youtube.com/embed/UhUYv-_eKyc?wmode=opaque&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;Live Manly Beach&amp;nbsp;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 09 Oct 2016 12:00:00 +1100</pubDate>
+        <link>http://localhost:4000/manlydam/2016/10/09/ManlyDam.html</link>
+        <guid isPermaLink="true">http://localhost:4000/manlydam/2016/10/09/ManlyDam.html</guid>
+        
+        
+        <category>ManlyDam</category>
         
       </item>
     
@@ -340,47 +365,6 @@ Feel free to check out my &lt;a href=&quot;https://github.com/livemanlybeach&quo
         <category>Sunrise</category>
         
         <category>Queenscliff</category>
-        
-      </item>
-    
-      <item>
-        <title>Manly Beach Sydney Storm Aftermath</title>
-        <description>&lt;p&gt;NSW was smashed by a huge storm this week with torrential rain and strong winds. I went down to the beach to take some photos and videos of the aftermath.&lt;/p&gt;
-&lt;div&gt;
-&lt;iframe style=&quot;box-shadow: 10px 10px 5px #888888;&quot; width=&quot;900&quot; height=&quot;506&quot; src=&quot;https://www.youtube.com/embed/DJya8p988J8?wmode=opaque&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;Manly Beach&amp;nbsp;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;!--more--&gt;
-
-&lt;p&gt;Local news reporting on the storm.
-&lt;img src=&quot;/images/2015-04-22/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;People coming to check out the damage
-&lt;img src=&quot;/images/2015-04-22/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Surfers taking advantage of the waves whipped up by the storm.
-&lt;img src=&quot;/images/2015-04-22/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;No thanks
-&lt;img src=&quot;/images/2015-04-22/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There used to be a sand bank there until the lagoon overflowed and washed all the sand out to sea.
-&lt;img src=&quot;/images/2015-04-22/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Try not to swallow any of that water
-&lt;img src=&quot;/images/2015-04-22/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 23 Apr 2015 06:00:00 +1000</pubDate>
-        <link>http://localhost:4000/manlybeach/sydneystorm/photography/video/2015/04/23/sydney-storm-aftermath.html</link>
-        <guid isPermaLink="true">http://localhost:4000/manlybeach/sydneystorm/photography/video/2015/04/23/sydney-storm-aftermath.html</guid>
-        
-        
-        <category>ManlyBeach</category>
-        
-        <category>SydneyStorm</category>
-        
-        <category>Photography</category>
-        
-        <category>Video</category>
         
       </item>
     
